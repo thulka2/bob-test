@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bob-test/static/css/main.2fa2f70a.chunk.css",
+    "main.js": "/bob-test/static/js/main.f9206780.chunk.js",
+    "main.js.map": "/bob-test/static/js/main.f9206780.chunk.js.map",
+    "runtime-main.js": "/bob-test/static/js/runtime-main.53e04bee.js",
+    "runtime-main.js.map": "/bob-test/static/js/runtime-main.53e04bee.js.map",
+    "static/css/2.def00553.chunk.css": "/bob-test/static/css/2.def00553.chunk.css",
+    "static/js/2.239280a7.chunk.js": "/bob-test/static/js/2.239280a7.chunk.js",
+    "static/js/2.239280a7.chunk.js.map": "/bob-test/static/js/2.239280a7.chunk.js.map",
+    "index.html": "/bob-test/index.html",
+    "precache-manifest.01057334cdfe7038038b985b62c52573.js": "/bob-test/precache-manifest.01057334cdfe7038038b985b62c52573.js",
+    "service-worker.js": "/bob-test/service-worker.js",
+    "static/css/2.def00553.chunk.css.map": "/bob-test/static/css/2.def00553.chunk.css.map",
+    "static/css/main.2fa2f70a.chunk.css.map": "/bob-test/static/css/main.2fa2f70a.chunk.css.map",
+    "static/js/2.239280a7.chunk.js.LICENSE.txt": "/bob-test/static/js/2.239280a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53e04bee.js",
+    "static/css/2.def00553.chunk.css",
+    "static/js/2.239280a7.chunk.js",
+    "static/css/main.2fa2f70a.chunk.css",
+    "static/js/main.f9206780.chunk.js"
+  ]
+}
